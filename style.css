@@ -1,0 +1,14 @@
+.lexend {
+    font-family: "Lexend", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h1 {
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');

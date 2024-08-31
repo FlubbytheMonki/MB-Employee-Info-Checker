@@ -13,7 +13,7 @@ if username == flub_username and password == flub_password:
     print("Welcome Flub!")
     print(flub_role)
     print("To Do's:", flub_todo1, flub_todo2, flub_todo3)
-else username == neetify password = neet
-print("Welcome Neetify!")
-print("Role: Employee")
-print("To Do's", "nothing")
+elif username == "neetify" and password == "neet":
+    print("Welcome Neetify!")
+    print("Role: Employee")
+    print("To Do's", "nothing")
